@@ -1,12 +1,14 @@
 # 🚀 Welcome to My GitHub Playground! 🎉
 
-Hey there! I'm Greeshma, a passionate developer, designer, and problem-solver. If you're reading this, you're either here to **peek under the hood** or **join the adventure**—both are awesome reasons! 💻✨
+
+
+                                         https://github.com/user-attachments/assets/7f1da50b-e146-4953-8b85-c83eb6d06903
+
+
+
+##Hey there! I'm Greeshma, a passionate developer, designer, and problem-solver 💻✨
 
 --
-
-
-https://github.com/user-attachments/assets/a6081308-7a7d-4477-b09d-e745b146e0bb
-
 
 ## 🧑‍💻 Who Am I?
 

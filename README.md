@@ -29,7 +29,8 @@ Repo: Coming soon!
 
 ## 📫 How to Reach Me
 
-- 💬 Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/greeshma-raut-41344b333), or drop me a message at (mailto:greeshhmaraut@gmail.com).
+- 💬 Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/greeshma-raut-41344b333).
+- 📬 Carrier pigeons are also welcome but take a while, so maybe just send an email at (mailto:greeshhmaraut@gmail.com).
 - 📝 I'm always up for collaborating on unique and challenging projects!
 
 ## 🤓 Fun Facts

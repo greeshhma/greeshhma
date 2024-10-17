@@ -2,7 +2,6 @@
 
 Hey there! I'm Greeshma, a passionate developer, designer, and problem-solver 💻✨
 
---
 
 ## 🧑‍💻 Who Am I?
 
@@ -11,7 +10,6 @@ Hey there! I'm Greeshma, a passionate developer, designer, and problem-solver �
 - 🎯 Focused on building innovative solutions for real-world problems.
 - 🛠️ Skills: HTML, CSS, JavaScript, React, and a sprinkle of AI magic! 🌟
 
---
 
 ## 🛠 My Current Projects
 
@@ -30,7 +28,6 @@ Something mysterious and awesome is in the works...
 I could tell you about it, but then I’d have to erase your memory (just kidding… or am I?).
 Repo: Coming soon!
 
---
 
 ## 📫 How to Reach Me
 
@@ -38,7 +35,6 @@ Repo: Coming soon!
 - 📬 Carrier pigeons are also welcome but take a while, so maybe just send an email at (mailto:greeshhmaraut@gmail.com).
 - 📝 I'm always up for collaborating on unique and challenging projects!
 
----
 
 ## 🤓 Fun Facts(Because Why Not?)
 -🤔 I’ve started to believe that the best programming language is the one that has the most entertaining error messages.

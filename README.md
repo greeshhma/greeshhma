@@ -37,9 +37,9 @@ Repo: Coming soon!
 
 
 ## 🤓 Fun Facts(Because Why Not?)
--🤔 I’ve started to believe that the best programming language is the one that has the most entertaining error messages.
--🦄 I believe in coding magic—yes, console.log does fix everything.
--🕵️‍♂️ I’ve spent more time searching for the right GIF to include in this bio than actually writing the bio itself (i haven't found it yet).
+- 🤔 I’ve started to believe that the best programming language is the one that has the most entertaining error messages.
+- 🦄 I believe in coding magic—yes, console.log does fix everything.
+- 🕵️‍♂️ I’ve spent more time searching for the right GIF to include in this bio than actually writing the bio itself (i haven't found it yet).
 
 
 

@@ -2,7 +2,7 @@
 
 Hey there! I'm Greeshma, a passionate developer, designer, and problem-solver. If you're reading this, you're either here to **peek under the hood** or **join the adventure**—both are awesome reasons! 💻✨
 
----
+--
 
 ## 🧑‍💻 Who Am I?
 
@@ -11,26 +11,26 @@ Hey there! I'm Greeshma, a passionate developer, designer, and problem-solver. I
 - 🎯 Focused on building innovative solutions for real-world problems.
 - 🛠️ Skills: HTML, CSS, JavaScript, React, and a sprinkle of AI magic! 🌟
 
----
+--
 
 ## 🛠 My Current Projects
 
 1.🕵️‍♂️ Cyber Netra
 Your personal digital detective.
 Investigates social media like Sherlock Holmes but with less pipe smoking and more code.
-Repo: 
+Repo: [CyberNetra]()
 
 2.🌱 MPower
 Your personal mental health companion.
 Anonymous, affordable counseling, peer support, and resources at your fingertips.
-Repo:
+Repo: [MPower](https://github.com/rushabhcodes/MPower)
 
 3.🌟 OLAF (Oasis of Lore and Fantasy)
 Something mysterious and awesome is in the works...
 I could tell you about it, but then I’d have to erase your memory (just kidding… or am I?).
 Repo: Coming soon!
 
----
+--
 
 ## 📫 How to Reach Me
 

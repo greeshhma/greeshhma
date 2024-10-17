@@ -18,7 +18,7 @@ Hey there! I'm Greeshma, a passionate developer, designer, and problem-solver. I
 1.🕵️‍♂️ Cyber Netra
 Your personal digital detective.
 Investigates social media like Sherlock Holmes but with less pipe smoking and more code.
-Repo: [CyberNetra]()
+Repo: [CyberNetra](https://github.com/rushabhcodes/CyberNetra)
 
 2.🌱 MPower
 Your personal mental health companion.

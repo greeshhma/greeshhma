@@ -8,7 +8,7 @@ Hey there! I'm Greeshma, a passionate developer, designer, and problem-solver �
 - 🔭 Currently working on projects that merge creativity with code.
 - 🌱 Always learning and exploring new technologies.
 - 🎯 Focused on building innovative solutions for real-world problems.
-- 🛠️ Skills: HTML, CSS, JavaScript, React, and a sprinkle of AI magic! 🌟
+- 🛠️ Skills: UI/UX, HTML, CSS, JavaScript, React, and a sprinkle of AI magic! 🌟
 
 
 ## 🛠 My Current Projects
